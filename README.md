@@ -1,5 +1,5 @@
 
-#Image Encryption Tool (PyQt5 + Pillow)
+Image Encryption and pixel manipulation Tool (PyQt5 + Pillow)
 
 A simple, GUI-based image encryption tool built with **PyQt5** and **Pillow**.  
 This project demonstrates how image encryption can be done at the **pixel level** using operations like addition and subtraction on RGB values.  
